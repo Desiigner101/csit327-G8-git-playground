@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G8
+- Favorite Language: Java, Javascript, Python, Kotlin, and C
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @Desiigner101 (https://github.com/Desiigner101)
