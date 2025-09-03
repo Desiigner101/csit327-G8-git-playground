@@ -1,0 +1,4 @@
+- Year/Section: 2nd Year / G8
+- Favorite Language: Java
+- One Git Tip Learned: Make git commit messages more often.
+- GitHub: @TheLaughingFrog
